@@ -1,0 +1,50 @@
+/* Done by Carlos Amaral (2021/05/29) */
+
+body {
+    text-align: center;
+    background-color: #283149;
+}
+
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: 'Monoton', cursive;
+    text-shadow: 2.5px 0 #DA0463;
+}
+
+h3 {
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.set {
+    margin: 5% auto;
+}
+
+/*
+.a {
+    background-image: url("images/musical-instruments-4764161_640.png");
+}
+
+.b {
+    background-image: url("images/electric-guitar-161740_640.png");
+}
+*/
+
+.image {
+  outline: none;
+  border: 10px solid #404B69;
+  border-radius: 15px;
+  display: inline-block;
+  text-align: center;
+  margin: 1.5rem 1rem;
+  background-color: white;
+}
+
+
+footer {
+    color: #fff;
+    font-family: sans-serif;
+}
